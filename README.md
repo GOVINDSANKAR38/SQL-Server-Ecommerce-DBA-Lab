@@ -172,10 +172,3 @@ Screenshots are provided including:
 
 Each screenshot includes captions for clarity and documentation.
 
-🧠 Author
-
-Deuidonne Angoh
-📧 Email: deuidonneangoh  
-🎓 Bachelor of Electrical Engineering (B.ENG)  
-🎓 Certified MSSQL Database Administrator  
-🎓 Azure Database Engineer Associate (Microsoft Certified) – *In Progress*
